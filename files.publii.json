@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "392919b44a5e50adfb81c32d9eab3437"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/amira",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/amira/index.html",
+        "type": "file",
+        "md5": "3dbb0dfc0405892333ca78533a9fc051"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "fd2b174afb5caed88ab0f0a5dfe44726"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "3b9db484d9245cd45aab0522628eddcd"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "1357502b62f75f2c8043e01bbe2c1c92"
+    },
+    {
+        "path": "learn-quran-a-complete-guide-to-understanding-and-embracing-the-holy-book",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-guide-to-understanding-and-embracing-the-holy-book/index.html",
+        "type": "file",
+        "md5": "12117eec1306d877d88a4c26d07635ab"
+    },
+    {
+        "path": "learn-quran-a-complete-guide-to-understanding-and-embracing-the-holy-book-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-guide-to-understanding-and-embracing-the-holy-book-2/index.html",
+        "type": "file",
+        "md5": "f4f60ba0ab17616db9317879d5eb0c2b"
+    },
+    {
+        "path": "learn-quran-a-complete-guide-to-understanding-and-living-by-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-guide-to-understanding-and-living-by-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "437d1ecd79699675c4738e77047ecf4d"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Facts-4.jpg.webp",
+        "type": "file",
+        "md5": "289aed00526a14edf2f786593c35c1b1"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Facts-4.jpg-2xl.webp",
+        "type": "file",
+        "md5": "e39b49f2018e3528f6145fb6995b20b7"
+    },
+    {
+        "path": "/media/website/responsive/Facts-4.jpg-lg.webp",
+        "type": "file",
+        "md5": "e39b49f2018e3528f6145fb6995b20b7"
+    },
+    {
+        "path": "/media/website/responsive/Facts-4.jpg-md.webp",
+        "type": "file",
+        "md5": "e39b49f2018e3528f6145fb6995b20b7"
+    },
+    {
+        "path": "/media/website/responsive/Facts-4.jpg-sm.webp",
+        "type": "file",
+        "md5": "e39b49f2018e3528f6145fb6995b20b7"
+    },
+    {
+        "path": "/media/website/responsive/Facts-4.jpg-xl.webp",
+        "type": "file",
+        "md5": "e39b49f2018e3528f6145fb6995b20b7"
+    },
+    {
+        "path": "/media/website/responsive/Facts-4.jpg-xs.webp",
+        "type": "file",
+        "md5": "b93eaa58c3c3e5321eece649972fb4a5"
+    },
+    {
+        "path": "online-quran-classes-your-gateway-to-learning-the-words-of-allah-from-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-your-gateway-to-learning-the-words-of-allah-from-anywhere/index.html",
+        "type": "file",
+        "md5": "71f86363b6d150fbb340940d0781c0f3"
+    },
+    {
+        "path": "online-quran-classes-your-gateway-to-learning-the-words-of-allah-from-anywhere-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-your-gateway-to-learning-the-words-of-allah-from-anywhere-2/index.html",
+        "type": "file",
+        "md5": "191edc1c4f03fba4141d16592951153d"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "7639f06ccfb8245e95c44aff3775a4cf"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "7277adc8deca3280476790036e920e96"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "2b2468dc965c6d21fce29110266af7ea"
+    }
+]
